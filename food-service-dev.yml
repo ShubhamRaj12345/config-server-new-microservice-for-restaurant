@@ -2,7 +2,7 @@ info:
   app:
     name: "Foodservice development "
     description: "this is a dev development and this a configuration of food server in the config server food service"
-    version: "1.0 under development"
+    version: "2.0 under development"
 
 spring:
   datasource:
