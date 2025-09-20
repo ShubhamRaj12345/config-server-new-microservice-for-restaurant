@@ -2,7 +2,7 @@ info:
   app:
     name: "Foodservice development "
     description: "this is a dev development and this a configuration of food server in the config server food service"
-    version: "{cipher}a8d51a88426145992c7b77540f71c66d51335d921c0080039b0a4c249d393cd228d1af9f460c6711b234ad45a8ee8a30"
+    version: "1.0 this is new versions"
 
 spring:
   datasource:
