@@ -1,0 +1,11 @@
+server:
+  port: 9992
+
+
+
+info:
+  app:
+    name: "Foodservice development "
+    description: "this is a testing development food servcie"
+    version: "1.0 testing  development"
+

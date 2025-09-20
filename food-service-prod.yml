@@ -1,0 +1,10 @@
+
+
+info:
+  app:
+    name: "Foodservice development "
+    description: "this is a production development food servcie"
+    version: "1.0 production development"
+
+server:
+  port: 9991
